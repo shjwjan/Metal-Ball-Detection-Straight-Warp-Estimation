@@ -1,2 +1,6 @@
-# Metal-Ball-Detection-Straight-Warp-Estimation
-This project uses YOLO to realize metal ball detection / diameter estimation, the measured results are very good, suitable for industrial steel ball detection.
+you should get a video to run
+```shell
+python detect_reflect.py --source ./data/images/     补全文件路径
+```
+
+
